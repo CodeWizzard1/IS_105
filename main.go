@@ -1,7 +1,7 @@
-package main 
+package main
 
-import "github.com\Sander\unicode"
+import "github.com/Sander/IS_105/unicode"
 
-func main () {
-	unicode.SkrivUt()
+func main() {
+	unicode.SkrivUT()
 }
